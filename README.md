@@ -26,7 +26,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "dev.lifecreator@gmail.com" or
+  Mail me at "onosaito0614@gmail.com" or
   <!-- through website https://codewhiteweb.thedev.id/contact -->
 
 <!-- ⚡ Fun fact: 7 out of 10 consumers find a company via the blog -->
