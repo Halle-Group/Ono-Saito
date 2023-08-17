@@ -26,11 +26,11 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "onosaito0614@gmail.com" or
+  Mail me at "onosaito0614@gmail.com"
   <!-- through website https://codewhiteweb.thedev.id/contact -->
 
 <!-- ⚡ Fun fact: 7 out of 10 consumers find a company via the blog -->
-
+<img src="https://github.com/Ono-Saito/my-prof/blob/main/computing%5B00_00_01--00_00_21%5D.gif" alt="Animated GIF">
 
 <!-- <h3>Connect with me:</h3>
 <p>
