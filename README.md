@@ -26,7 +26,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "onosaito0614@gmail.com"
+  Mail me at "onosaito0614@gmail.com" <br/>
   Or by Skype "live:.cid.b7a7092abd562fa0"
   <!-- through website https://codewhiteweb.thedev.id/contact -->
 
