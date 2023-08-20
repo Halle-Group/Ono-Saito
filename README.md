@@ -27,7 +27,7 @@
 
   📫 How to reach me:  
   Mail me at "onosaito0614@gmail.com" <br/>
-  Or by Skype "live:.cid.b7a7092abd562fa0"
+  Or by Skype <a href="https://join.skype.com/invite/r2gUVghlnXMc">live:.cid.b7a7092abd562fa0</a>
   <!-- through website https://codewhiteweb.thedev.id/contact -->
 
 <!-- ⚡ Fun fact: 7 out of 10 consumers find a company via the blog -->
