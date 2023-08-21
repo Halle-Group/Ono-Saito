@@ -22,7 +22,6 @@
   👯 I’m open to collaborate with anyone
 
 
-  📫 How to reach me:  
   Mail me at "onosaito0614@gmail.com" <br/>
   Or by Skype <a href="https://join.skype.com/invite/r2gUVghlnXMc">live:.cid.b7a7092abd562fa0</a>
   <!-- through website https://codewhiteweb.thedev.id/contact -->
